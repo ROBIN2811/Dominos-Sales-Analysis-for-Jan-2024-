@@ -6,6 +6,9 @@ The dataset used for this analysis is stored in a MySQL database and contains in
 
 I have provided the dataset [Dominos Sales.xlxs]
 
+## Script/Code:
+
+
 ## Methodology
 - Data Retrieval: SQL queries are used to extract sales data from the MySQL database.
 - Dashboard Creation: Power BI is utilized to create an interactive dashboard to visualize sales metrics and trends.
@@ -13,10 +16,10 @@ I have provided the dataset [Dominos Sales.xlxs]
 ## Visualizations
 The Power BI dashboard showcases key metrics such as total sales, product performance, and geographic distribution of sales.
 
-I have provided the dashboard [Dominos.pbix]
+I have provided the dashboard [Dominos Sales.pbix]
 
 ## Conclusion
-The analysis provides valuable insights into Domino's sales and product performance for January 2024.
+The analysis provides valuable insights into Domino's sales and product performance for January 2024. Displaying the product that contributes the most in total sales and filtering for the most ordered items. Go through the below pdf for step by step process.
 
 I have provided a summary report for this project [Dominos Sales.pdf]
 
