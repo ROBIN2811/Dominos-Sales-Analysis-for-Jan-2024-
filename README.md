@@ -7,7 +7,7 @@ The dataset used for this analysis is stored in a MySQL database and contains in
 I have provided the dataset that I imported in MySQL [Dominos Sales.xlxs]
 
 ## Script/Code:
-SQL Scripts:
+Provided this SQL Scripts:
 1. [dominos_table_orders.sql] shows queries for creating order data
 2. [dominos_table_order_data.sql] shows queries that later can be either used for creating a dashboard or for customer billing data.
 
