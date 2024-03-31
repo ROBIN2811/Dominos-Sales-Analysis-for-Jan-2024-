@@ -21,7 +21,8 @@ The Power BI dashboard showcases key metrics such as total sales, product perfor
 I have provided the dashboard [Dominos Sales.pbix]
 
 ## Conclusion
-The analysis provides valuable insights into Domino's sales and product performance for January 2024. Displaying the product that contributes the most in total sales and filtering for the most ordered items. Go through the below pdf for the step-by-step process.
+'The analysis provides valuable insights into Domino's sales and product performance for January 2024. Displaying the product that contributes the most in total sales and filtering
+for the most ordered items. Go through the below pdf for the step-by-step process.'
 
 I have provided a summary report for this project [Dominos Sales.pdf]
 
