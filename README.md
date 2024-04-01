@@ -1,5 +1,8 @@
 # Dominos-Sales-Analysis
+
+## Overview
 This repository contains SQL scripts, Power BI files, and documentation related to the analysis of Domino's sales for January 2024 as a sample. The analysis involves querying a MySQL database to extract sales data and creating a dashboard using Power BI to visualize key metrics and trends.
+![Dominos Sales]()
 
 ## Dataset
 The dataset used for this analysis is stored in a MySQL database and contains information about Domino's sales transactions.
